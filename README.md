@@ -1,5 +1,4 @@
-# utcConvert
-C#, convert UTC and DateTime.
+
 
 ## Result
 =========Now======== <br>
