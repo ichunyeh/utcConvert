@@ -1,0 +1,11 @@
+/Users/stork/project/test2/bin/Debug/netcoreapp3.0/test2
+/Users/stork/project/test2/bin/Debug/netcoreapp3.0/test2.deps.json
+/Users/stork/project/test2/bin/Debug/netcoreapp3.0/test2.runtimeconfig.json
+/Users/stork/project/test2/bin/Debug/netcoreapp3.0/test2.runtimeconfig.dev.json
+/Users/stork/project/test2/bin/Debug/netcoreapp3.0/test2.dll
+/Users/stork/project/test2/bin/Debug/netcoreapp3.0/test2.pdb
+/Users/stork/project/test2/obj/Debug/netcoreapp3.0/test2.csprojAssemblyReference.cache
+/Users/stork/project/test2/obj/Debug/netcoreapp3.0/test2.AssemblyInfoInputs.cache
+/Users/stork/project/test2/obj/Debug/netcoreapp3.0/test2.AssemblyInfo.cs
+/Users/stork/project/test2/obj/Debug/netcoreapp3.0/test2.dll
+/Users/stork/project/test2/obj/Debug/netcoreapp3.0/test2.pdb

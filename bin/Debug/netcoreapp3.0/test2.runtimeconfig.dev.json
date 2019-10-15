@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/stork/.dotnet/store/|arch|/|tfm|",
+      "/Users/stork/.nuget/packages"
+    ]
+  }
+}
